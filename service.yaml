@@ -4,7 +4,7 @@ metadata:
   name: cs401-proj2-service
 spec:
   selector:
-    app: prediction
+    app: ame_predictor
   ports:
     - protocol: TCP
       port: 5014
